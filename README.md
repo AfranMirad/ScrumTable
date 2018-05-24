@@ -1,1 +1,2 @@
 # ScrumTable
+StoryOperation.cs sınıfında Story sınıfına ait özelliklerinin işlemleri gerçekleştirilmektedir. Story sınıfında ise Task sınıfının özelliklerinin işlemleri gerçekleşir. Task sınıfında yalnızca özellikler yer alır. Connected sınıfında veritananına bağlanma kodları yer almakta. Formlarda DataGridView doldurma, combobox doldurma, textbox içeriğini metodlarına gönderme gibi işlemler gerçekleşmektedir.
